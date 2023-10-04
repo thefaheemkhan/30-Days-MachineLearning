@@ -1,2 +1,2 @@
-# 30-Days-MachineLearning
-This is the ultimate 30 days ML Repo
+# Machine Learning Algorithms 
+Concepts and Maths behind it.
