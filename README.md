@@ -1,4 +1,4 @@
-# Machine Learning Algorithms 
+# Machine Learning 101
 This is the the Machine Learning series where you can find entire step by step process to become a Machine Learning Engineer.
 
 Git commands to update this repo:
