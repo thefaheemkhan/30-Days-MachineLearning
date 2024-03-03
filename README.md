@@ -1,5 +1,7 @@
-# Machine Learning 101
-This is the the Machine Learning series where you can find entire step by step process to become a Machine Learning Engineer.
+# Machine Learning 101 
+## Scikit Learn
+This is the the Machine Learning series where you can find entire step by step process to becoming a Machine Learning Engineer.
+In this series, we are going to cover sci-kit learn library end-to-end.
 
 Git commands to update this repo:
 1. git init
