@@ -23,7 +23,9 @@ In this series, we are going to cover sci-kit learn library end-to-end.
 17. Quantile Regression
 18. Polynomial regression: extending linear models with basis functions
 
-Git commands to update this repo:
+----------------------------------------------------------------------------------------------------------------------
+
+### Git commands to update this repo:
 1. git init
 2. git clone <url> 
 3. git status (to check status)
