@@ -1,6 +1,5 @@
-# Machine Learning 101
-
-This is followed by Machine Learning Specialization course on Coursera
+# Machine Learning - (ML-101)
+Machine Learning (ML101) Repository contains a one-stop solution for modern-day machine learning. This repo Resources and Explanation for ML algorithms and their Implementations.
 
 ----------------------------------------------------------------------------------------------------------------------
 
