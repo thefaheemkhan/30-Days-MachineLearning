@@ -3,17 +3,27 @@ Machine Learning (ML101) Repository contains a one-stop solution for modern-day 
 
 # Roadmap ML-101
 
-1. Item Zed
-   1. Nested Numeric # indented 3 spaces
-   2. eferfewrf
-2. Item One
+## Supervised Learning.
 
-## 1. Supervised Learning
-1. Introduction to Supervised Learning.
+1. Introduction to Supervised Learning
 2. Notations and general concepts.
 3. Linear models.
-4. Linear Regression.
-5. Classification and Logistic Regression.
+   1. Linear Regression
+   2. classification and Logistic Regression.
+   3. Generalized models.
+4. Support Vector Machine.
+5. Generative Learning.
+   1. Gaussian Discriminant Analysis.
+   2. Naive Bayes.
+6. Tree-based and Ensemble Methods.
+   1. Decision tree.
+   2. Random Forest.
+   3. Boosting algorithms.
+      1. AdaBoosting.
+      2. Gradient Boosting.
+      3. XgBoosting.
+7. Non-parametric approaches.
+   1. K-Nearest neighbours.
 
 ----------------------------------------------------------------------------------------------------------------------
 
