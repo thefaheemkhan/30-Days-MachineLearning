@@ -3,8 +3,10 @@ Machine Learning (ML101) Repository contains a one-stop solution for modern-day 
 
 # Roadmap ML-101
 
-- [ ] Open Item
-- [x] Item Done
+1. Item Zed
+   1. Nested Numeric # indented 3 spaces
+   2. eferfewrf
+2. Item One
 
 ## 1. Supervised Learning
 1. Introduction to Supervised Learning.
