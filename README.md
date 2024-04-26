@@ -1,6 +1,11 @@
 # Machine Learning - (ML-101)
 Machine Learning (ML101) Repository contains a one-stop solution for modern-day machine learning. This repo Resources and Explanation for ML algorithms and their Implementations.
 
+# Roadmap ML-101
+
+## 1. Supervised Learning
+   1.1 Introduction to Supervised Learning.
+
 ----------------------------------------------------------------------------------------------------------------------
 
 ### Git commands to update this repo:
