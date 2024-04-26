@@ -1,5 +1,5 @@
 # Machine Learning - (ML-101)
-Machine Learning (ML101) Repository contains a one-stop solution for modern-day machine learning. This repo Resources and Explanation for ML algorithms and their Implementations.
+Machine Learning (ML101) Repository contains a one-stop solution for modern-day machine learning. This repo Resources and Explanations for ML algorithms and their Implementations.
 
 # Roadmap ML-101
 
@@ -13,17 +13,17 @@ Machine Learning (ML101) Repository contains a one-stop solution for modern-day 
    - Generalized models.
 4. Support Vector Machine.
 5. Generative Learning.
-   1. Gaussian Discriminant Analysis.
-   2. Naive Bayes.
+   - Gaussian Discriminant Analysis.
+   - Naive Bayes.
 6. Tree-based and Ensemble Methods.
-   1. Decision tree.
-   2. Random Forest.
-   3. Boosting algorithms.
-      1. AdaBoosting.
-      2. Gradient Boosting.
-      3. XgBoosting.
+   - Decision tree.
+   - Random Forest.
+   - Boosting algorithms.
+     - AdaBoosting.
+     - Gradient Boosting.
+     - XgBoosting.
 7. Non-parametric approaches.
-   1. K-Nearest neighbours.
+   - K-Nearest neighbors.
 
 ----------------------------------------------------------------------------------------------------------------------
 
