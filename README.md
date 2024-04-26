@@ -4,7 +4,8 @@ Machine Learning (ML101) Repository contains a one-stop solution for modern-day 
 # Roadmap ML-101
 
 ## 1. Supervised Learning
-   1.1 Introduction to Supervised Learning.
+#####   1.1 Introduction to Supervised Learning.
+   
 
 ----------------------------------------------------------------------------------------------------------------------
 
