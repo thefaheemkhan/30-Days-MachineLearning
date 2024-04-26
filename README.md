@@ -23,6 +23,32 @@ Machine Learning (ML101) Repository contains a one-stop solution for modern-day 
      - XgBoosting.
 7. Non-parametric approaches.
    - K-Nearest neighbors.
+  
+
+## 2. Unsupervised Learning.
+1. Introduction to Unsupervised Learning.
+2. clustering.
+   - Expectation-Maximization.
+   - K-means clustering.
+   - Hierarchical clustering.
+   - Clustering assessment metrics.
+3. Dimension Reduction.
+   - Principal Component Analysis (PCA)
+   - Independent Component Analysis (ICA)
+  
+## 3. Deep Learning.
+1. Neural Networks.
+2. Convolutional Neural Networks.
+3. Recurrent Neural Networks.
+4. Reinforcement Learning and Control.
+
+
+## 4. Machine Learning Tips and Tricks.
+1. Metrics.
+   - Classification.
+   - Regression.
+2. Model Selection.
+3. Diagnostics.
 
 ----------------------------------------------------------------------------------------------------------------------
 
