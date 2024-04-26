@@ -8,8 +8,8 @@ Machine Learning (ML101) Repository contains a one-stop solution for modern-day 
 1. Introduction to Supervised Learning
 2. Notations and general concepts.
 3. Linear models.
-   1. Linear Regression
-   2. classification and Logistic Regression.
+   1.1 Linear Regression
+   1.2. classification and Logistic Regression.
    3. Generalized models.
 4. Support Vector Machine.
 5. Generative Learning.
