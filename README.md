@@ -1,5 +1,6 @@
 # Machine Learning - (ML-101)
-Machine Learning (ML101) Repository contains a one-stop solution for modern-day machine learning. This repo Resources and Explanations for ML algorithms and their Implementations.
+Machine Learning (ML101) Repository contains a one-stop solution for modern-day machine learning. This repo contains Resources and Explanations for ML algorithms and their Implementations.
+Resources: Standford CS229, Hands-on Machine Learning Book, Afsine Amidi ML Cheatsheet.
 
 # Roadmap ML-101
 
