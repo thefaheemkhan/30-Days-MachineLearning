@@ -5,7 +5,7 @@ Resources: Standford CS229, Hands-on Machine Learning Book, Afsine Amidi ML Chea
 # Roadmap ML-101
 
 ## 1. Supervised Learning.
-1. Introduction to Supervised Learning
+1. Introduction to Supervised Learning.
 2. Notations and general concepts.
 3. Linear models.
    - Linear Regression
