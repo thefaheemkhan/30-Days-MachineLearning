@@ -35,7 +35,7 @@ Resources: Standford CS229, Hands-on Machine Learning Book, Afsine Amidi ML Chea
    - Clustering assessment metrics.
 3. Dimension Reduction.
    - Principal Component Analysis (PCA).
-   - Independent Component Analysis (ICA)
+   - Independent Component Analysis (ICA).
   
 ## 3. Deep Learning.
 1. Neural Networks.
