@@ -1,0 +1,46 @@
+# This is a list of Project Ideas
+
+## 1. Analyzing images of products on a production line to automatically classify them.
+This is image classification, typically performed using convolutional neural networks (CNNs) or sometimes transformers.
+
+## 2. Detecting tumors in brain scans.
+This is semantic image segmentation, where each pixel in the image is classified (as we want to determine the exact location and shape of tumors), typically using CNNs or transformers.
+
+## 3. Automatically classifying news articles.
+This is natural language processing (NLP), and more specifically text classification, which can be tackled using recurrent neural networks (RNNs) and CNNs, but transformers work even better.
+
+## 4. Automatically flagging offensive comments on discussion forums.
+This is also text classification, using the same NLP tools.
+
+## 5. Summarizing long documents automatically.
+This is a branch of NLP called text summarization, again using the same tools.
+
+## 6. Creating a chatbot or a personal assistant.
+This involves many NLP components, including natural language understanding (NLU) and question-answering modules.
+
+## 7. Forecasting your company’s revenue next year, based on many performance metrics.
+This is a regression task (i.e., predicting values) that may be tackled using any regression model, such as a linear regression or polynomial regression model, a regression support vector machine, a regression random forest, 
+or an artificial neural network. If you want to take into account sequences of past performance metrics, you may want to use RNNs, CNNs, or transformers.
+
+## 8. Make your app react to voice commands.
+This is speech recognition, which requires processing audio samples: since they are long and complex sequences, they are typically processed using RNNs, CNNs, or transformers.
+
+## 9. Detecting credit card fraud
+This is anomaly detection, which can be tackled using isolation
+forests, Gaussian mixture models (see Chapter 9), or autoencoders
+(see Chapter 17).
+
+## 10. Segmenting clients based on their purchases so that you can design a different marketing strategy for each segment.
+This is clustering, which can be achieved using k-means, DBSCAN, and more.
+
+## 11. Representing a complex, high-dimensional dataset in a clear and insightful diagram.
+This is data visualization, often involving dimensionality reduction techniques.
+
+## 12. Recommending a product that a client may be interested in, based on past purchases.
+This is a recommender system. One approach is to feed past purchases (and other information about the client) to an artificial neural network and get it to output the most likely next purchase. 
+This neural net would typically be trained on past sequences of purchases across all clients.
+
+## 13. Building an intelligent bot for a game.
+This is often tackled using reinforcement learning, which is a branch of machine learning that trains agents (such as bots) to pick the actions that will maximize their rewards over time (e.g., a bot may get a reward every time the player
+loses some life points), within a given environment (such as the game). The famous AlphaGo program that beat the world champion at the game of Go was built using RL.
+
