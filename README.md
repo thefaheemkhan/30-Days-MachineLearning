@@ -51,7 +51,7 @@ Resources: Standford CS229, Hands-on Machine Learning Book, Afsine Amidi ML Chea
 2. Model Selection.
 3. Diagnostics.
 
-----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
 
 ### Git commands to update this repo:
 1. git init
