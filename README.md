@@ -1,7 +1,12 @@
 # Machine Learning - (ML-101)
 Machine Learning (ML101) Repository contains a one-stop solution for modern-day machine learning. This repo includes resources and explanations for ML algorithms and their Implementation.
 Resources: Standford CS229, Hands-on Machine Learning Book, Afsine Amidi ML Cheatsheet.
+This Repo is inspired from Resources like Hands-on-ML book and Standford cheatsheet by afsine amidi and CS229 by Andrew Ng.
 
+this will continue Chapter 1 to chapter 9 from Hands-on-ML book
+to be continued...
+
+----------------------------------------------------------------------------------------------------------
 # Roadmap ML-101
 
 ## 1. Supervised Learning.
