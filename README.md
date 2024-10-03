@@ -6,6 +6,11 @@ This Repo is inspired from Resources like Hands-on-ML book and Standford cheatsh
 this will continue Chapter 1 to chapter 9 from Hands-on-ML book
 to be continued...
 
+This will include 
+1. Written topics and explanation docs on github
+2. Notebooks notebooks and code on Google colab
+3. Brief Discussion blog on medium
+
 ----------------------------------------------------------------------------------------------------------
 # Roadmap ML-101
 
