@@ -1,24 +1,32 @@
 ## Machine Learning Equations
 
 ### 1. Linear Regression Model Prediction
+$$
 \[
 \hat{y} = \theta_0 + \theta_1 x_1 + \theta_2 x_2 + \dots + \theta_n x_n
 \]
+$$
 
 ### 2. Linear Regression Model Prediction (Vectorized Form)
+$$
 \[
 \hat{y} = \theta^T \cdot x
 \]
+$$
 
 ### 3. Mean Squared Error (MSE) Cost Function
+$$
 \[
 MSE(\theta) = \frac{1}{m} \sum_{i=1}^m \left( \hat{y}^{(i)} - y^{(i)} \right)^2
 \]
+$$
 
 ### 4. Normal Equation
+$$
 \[
 \theta = \left( X^T \cdot X \right)^{-1} \cdot X^T \cdot y
 \]
+$$
 
 ### 5. Partial Derivative of MSE
 \[
