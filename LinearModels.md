@@ -1,6 +1,7 @@
 Here is a list of the equations found in Chapter 4 of the provided PDF:
 
 1. **Equation 4-1**: Linear regression model prediction.
+
    $$\[
    \hat{y} = \theta_0 + \theta_1 x_1 + \theta_2 x_2 + \dots + \theta_n x_n
    \]$$
