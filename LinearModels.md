@@ -7,9 +7,9 @@ Here is a list of the equations found in Chapter 4 of the provided PDF:
    (The prediction is a weighted sum of the input features.)
 
 2. **Equation 4-2**: Linear regression model prediction (vectorized form).
-   \[
+   $$\[
    \hat{y} = \theta^T \cdot x
-   \]
+   \]$$
    (This is a dot product between the parameter vector and the feature vector.)
 
 3. **Equation 4-3**: Mean Squared Error (MSE) cost function for a linear regression model.
