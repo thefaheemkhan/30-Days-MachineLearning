@@ -17,44 +17,52 @@ This will include
 ## Machine Learning Equations
 
 ### 1. Linear Regression Model Prediction
-\[
+
+$$\[
 \hat{y} = \theta_0 + \theta_1 x_1 + \theta_2 x_2 + \dots + \theta_n x_n
-\]
+\]$$
 
 ### 2. Linear Regression Model Prediction (Vectorized Form)
-\[
+
+$$\[
 \hat{y} = \theta^T \cdot x
-\]
+\]$$
 
 ### 3. Mean Squared Error (MSE) Cost Function
-\[
+
+$$\[
 MSE(\theta) = \frac{1}{m} \sum_{i=1}^m \left( \hat{y}^{(i)} - y^{(i)} \right)^2
-\]
+\]$$
 
 ### 4. Normal Equation
-\[
+
+$$\[
 \theta = \left( X^T \cdot X \right)^{-1} \cdot X^T \cdot y
-\]
+\]$$
 
 ### 5. Partial Derivative of MSE
-\[
+
+$$\[
 \frac{\partial MSE}{\partial \theta_j} = \frac{2}{m} \sum_{i=1}^m \left( \hat{y}^{(i)} - y^{(i)} \right) x_j^{(i)}
-\]
+\]$$
 
 ### 6. Gradient Vector of MSE
-\[
+
+$$\[
 \nabla_{\theta} MSE(\theta) = \frac{2}{m} X^T \cdot \left( X \cdot \theta - y \right)
-\]
+\]$$
 
 ### 7. Gradient Descent Update Rule
-\[
+
+$$\[
 \theta = \theta - \eta \cdot \nabla_{\theta} MSE(\theta)
-\]
+\]$$
 
 ### 8. Ridge Regression Cost Function
-\[
+
+$$\[
 J(\theta) = MSE(\theta) + \alpha \sum_{j=1}^n \theta_j^2
-\]
+\]$$
 
 ### 9. Ridge Regression Closed-Form Solution
 \[
