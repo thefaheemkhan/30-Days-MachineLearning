@@ -137,9 +137,10 @@ J(\theta) = -\frac{1}{m} \sum_{i=1}^m \sum_{k=1}^K y_k^{(i)} \log(\hat{p}_k^{(i)
 \]
 
 ### 23. Partial Derivatives of the Softmax Cost Function
-\[
+
+$$\[
 \frac{\partial J(\theta)}{\partial \theta_{j,k}} = \frac{1}{m} \sum_{i=1}^m \left( \hat{p}_k^{(i)} - y_k^{(i)} \right) x_j^{(i)}
-\]
+\]$$
 
 
 
