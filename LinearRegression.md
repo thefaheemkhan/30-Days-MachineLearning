@@ -1,27 +1,27 @@
-# **Update Rule for Linear Regression and Logistic Regression**
+# Update Rule for Linear Regression and Logistic Regression
 
 The **update rule** in both Linear Regression and Logistic Regression follows the framework of **Gradient Descent**. However, since the hypotheses and gradients differ, the updates are also slightly different.
 
 ---
 
-## **1. Linear Regression**
+## 1. Linear Regression
 
-### **Hypothesis:**
+### Hypothesis:
 \[
 h_\theta(x) = \theta^T x
 \]
 
-### **Cost Function (Mean Squared Error):**
+### Cost Function (Mean Squared Error):
 \[
 J(\theta) = \frac{1}{2m} \sum_{i=1}^m \left( h_\theta(x^{(i)}) - y^{(i)} \right)^2
 \]
 
-### **Gradient:**
+### Gradient:
 \[
 \frac{\partial J(\theta)}{\partial \theta_j} = \frac{1}{m} \sum_{i=1}^m \left( h_\theta(x^{(i)}) - y^{(i)} \right) x_j^{(i)}
 \]
 
-### **Update Rule:**
+### Update Rule:
 The parameters \( \theta \) are updated as:
 \[
 \theta_j := \theta_j - \alpha \cdot \frac{\partial J(\theta)}{\partial \theta_j}
@@ -39,24 +39,24 @@ Where:
 
 ---
 
-## **2. Logistic Regression**
+## 2. Logistic Regression
 
-### **Hypothesis (Sigmoid Function):**
+### Hypothesis (Sigmoid Function):
 \[
 h_\theta(x) = \frac{1}{1 + e^{-\theta^T x}}
 \]
 
-### **Cost Function (Log-Loss):**
+### Cost Function (Log-Loss):
 \[
 J(\theta) = -\frac{1}{m} \sum_{i=1}^m \left[ y^{(i)} \log(h_\theta(x^{(i)})) + (1 - y^{(i)}) \log(1 - h_\theta(x^{(i)})) \right]
 \]
 
-### **Gradient:**
+### Gradient:
 \[
 \frac{\partial J(\theta)}{\partial \theta_j} = \frac{1}{m} \sum_{i=1}^m \left( h_\theta(x^{(i)}) - y^{(i)} \right) x_j^{(i)}
 \]
 
-### **Update Rule:**
+### Update Rule:
 The parameters \( \theta \) are updated as:
 \[
 \theta_j := \theta_j - \alpha \cdot \frac{\partial J(\theta)}{\partial \theta_j}
@@ -75,7 +75,7 @@ Where:
 
 ---
 
-## **Key Differences in Update Rules**
+## Key Differences in Update Rules
 
 | **Aspect**                | **Linear Regression**                                     | **Logistic Regression**                                 |
 |---------------------------|----------------------------------------------------------|-------------------------------------------------------|
@@ -86,5 +86,9 @@ Where:
 
 ---
 
-### **Summary**
-In summary, while the **update rule structure** is the same, the hypothesis and gradients make the behavior of Gradient Descent different for Linear and Logistic Regression.
+## Summary
+
+While the **update rule structure** is the same for Linear and Logistic Regression, the hypothesis and gradients make their behavior during Gradient Descent different:
+
+- In **Linear Regression**, the updates are straightforward due to the linear relationship.
+- In **Logistic Regression**, the sigmoid function introduces non-linearity, resulting in different model behavior.
