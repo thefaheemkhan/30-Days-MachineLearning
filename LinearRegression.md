@@ -1,4 +1,3 @@
-```markdown
 # **Update Rule for Linear Regression and Logistic Regression**
 
 The **update rule** in both Linear Regression and Logistic Regression follows the framework of **Gradient Descent**. However, since the hypotheses and gradients differ, the updates are also slightly different.
@@ -89,4 +88,3 @@ Where:
 
 ### **Summary**
 In summary, while the **update rule structure** is the same, the hypothesis and gradients make the behavior of Gradient Descent different for Linear and Logistic Regression.
-```
