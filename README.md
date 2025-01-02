@@ -8,8 +8,8 @@ this will continue Chapter 1 to chapter 9 from the Hands-on-ML book
 to be continued...
 
 This will include 
-1. Written topics and explanation docs on github
-2. Notebooks notebooks and code on Google colab
+1. Written topics and explanation docs on GitHub
+2. Notebooks notebooks and code on Google Colab
 3. Brief Discussion blog on medium
 
 
