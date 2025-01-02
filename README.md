@@ -4,7 +4,7 @@ This repo includes resources and explanations for ML algorithms and their Implem
 Resources: Standford CS229, Hands-on Machine Learning Book, Afsine Amidi ML Cheatsheet.
 This Repo is inspired from Resources like Hands-on-ML book and Standford cheatsheet by afsine amidi and CS229 by Andrew Ng.
 
-this will continue Chapter 1 to chapter 9 from Hands-on-ML book
+this will continue Chapter 1 to chapter 9 from the Hands-on-ML book
 to be continued...
 
 This will include 
