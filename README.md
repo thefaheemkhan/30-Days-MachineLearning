@@ -42,7 +42,7 @@ This will include
 
 ## 2. Unsupervised Learning.
 1. Introduction to Unsupervised Learning.
-2. clustering.
+2. Clustering.
    - Expectation-Maximization.
    - K-means clustering.
    - Hierarchical clustering.
