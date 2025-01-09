@@ -10,7 +10,7 @@ to be continued...
 This will include 
 1. Written topics and explanation docs on GitHub
 2. Notebooks notebooks and code on Google Colab
-3. Brief Discussion blog on medium
+3. Brief Discussion blog on medium and personal blogs 
 
 
 
