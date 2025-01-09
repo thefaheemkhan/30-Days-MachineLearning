@@ -55,7 +55,8 @@ This will include
 1. Neural Networks.
 2. Convolutional Neural Networks.
 3. Recurrent Neural Networks.
-4. Reinforcement Learning and Control.
+4. Neural Networks fine tunning
+5. Reinforcement Learning and Control.
 
 
 ## 4. Machine Learning Tips and Tricks.
